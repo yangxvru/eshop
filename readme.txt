@@ -7,3 +7,4 @@ git push -u origin master
 
 there are some changes;
 another change;
+third change;
